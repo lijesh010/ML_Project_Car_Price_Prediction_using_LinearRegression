@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting car pr
 ## Problem Description
 The Chinese automobile company seeks to gain insights into the factors that impact car pricing in the American market. The key objectives are:
 1. Identify significant variables that play a role in predicting the price of a car.
-2. 2. Assess the effectiveness of these variables in describing the price of a car.
+2. Assess the effectiveness of these variables in describing the price of a car.
 ## Business Goal
 The ultimate business goal of this project is to build a predictive model that can accurately estimate car prices based on various independent variables. By understanding the relationship between car attributes and pricing, the management can:
 
